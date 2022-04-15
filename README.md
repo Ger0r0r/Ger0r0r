@@ -24,3 +24,8 @@ I'm student at MIPT
 </a>
 
 ## Contacts
+
+<p align="center">
+	<a href="https://vk.com/geroror"><img src="vk-96.png" alt="Vkontakte"/></a>
+	<a href="https://t.me/Ger0r0r"><img src="telegram-96.png" alt="Telegram"/></a>
+</p>
