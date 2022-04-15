@@ -8,7 +8,7 @@
 
 ## About me
 
-I'm student at MIPT. I like cakes like this cake
+I'm student at MIPT. I like cakes like this :cake
 
 ## Projects
 
