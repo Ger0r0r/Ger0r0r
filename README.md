@@ -28,4 +28,7 @@ I'm student at MIPT
 <p align="center">
 	<a href="https://vk.com/geroror"><img src="vk-96.png" alt="Vkontakte"/></a>
 	<a href="https://t.me/Ger0r0r"><img src="telegram-96.png" alt="Telegram"/></a>
+	<a href="https://discordapp.com/users/360460703364284416/"><img src="diskord-96.png" alt="Telegram"/></a>
+	<a href="https://steamcommunity.com/profiles/76561198244558474/"><img src="steam-96.png" alt="Telegram"/></a>
+	
 </p>
