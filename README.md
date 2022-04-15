@@ -1,9 +1,9 @@
 # Welcome to my github page!
 
-[About me](#about-me)
-[Projects](#projects)
-[Libraries](#libraries)
-[Activity](#activity)
+[About me](#about-me)</br>
+[Projects](#projects)</br>
+[Libraries](#libraries)</br>
+[Activity](#activity)</br>
 
 ## About me
 ## Projects
