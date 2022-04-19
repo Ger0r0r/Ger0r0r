@@ -12,6 +12,7 @@ I'm student at MIPT. I like cakes like this :cake:
 
 ## Projects
 
+* <a href="https://github.com/Ger0r0r/Server-SSH">Dedicated server SSH</a>
 
 ## Libraries
 
