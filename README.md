@@ -13,6 +13,10 @@ I'm student at MIPT. I like cakes like this :cake:
 ## Projects
 
 * <a href="https://github.com/Ger0r0r/Server-SSH">Dedicated server SSH</a>
+* <a href="https://github.com/Ger0r0r/Course_labwork_CompMath">Labwork: Convection–diffusion equation</a>
+* <a href="https://github.com/Ger0r0r/InfoSec">Neural cryptography: Tree parity machine</a>
+
+
 
 ## Libraries
 
