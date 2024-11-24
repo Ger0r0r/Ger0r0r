@@ -33,7 +33,6 @@ I'm student at MIPT. I like cakes like this :cake:
 <p align="center">
 	<a href="https://vk.com/geroror"><img src="vk-96.png" alt="Vkontakte"/></a>
 	<a href="https://t.me/Ger0r0r"><img src="telegram-96.png" alt="Telegram"/></a>
-	<a href="https://discordapp.com/users/360460703364284416/"><img src="discord-96.png" alt="Discord"/></a>
 	<a href="https://steamcommunity.com/profiles/76561198244558474/"><img src="steam-96.png" alt="Steam"/></a>
 	
 </p>
