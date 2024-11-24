@@ -1,12 +1,12 @@
-# Welcome to my github page!
+# Приветствую тебя на моём GitHub!
 
-[About me](#about-me)</br>
+[Обо мне](#about-me)</br>
 [Projects](#projects)</br>
 [Libraries](#libraries)</br>
 [Activity](#activity)</br>
 [Contacts](#contacts)</br>
 
-## About me
+## Обо мне
 
 I'm student at MIPT. I like cakes like this :cake:
 
