@@ -6,7 +6,7 @@
 [Activity](#activity)</br>
 [Contacts](#contacts)</br>
 
-## Обо мне
+<h2 id="about-me">Обо мне</h2>
 
 I'm student at MIPT. I like cakes like this :cake:
 
